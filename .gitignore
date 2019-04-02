@@ -1,6 +1,5 @@
 *.metadata*
 *.class
-*.settings*
 *RemoteSystemsTempFiles*
 *.recommenders*
 *DS_Store*
